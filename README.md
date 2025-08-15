@@ -22,7 +22,7 @@ Hi, I'm **Tushar Singh Nathawat** – a Software Engineer who codes and designs 
 
 ## 🌐 Links
 
-- 🌐 [tushar-portfolio.vercel.app](https://tusarsinghnathawatprotfolio.vercel.app)
+- 🌐 [tushar-portfolio.vercel.app](https://tusarsinghnathawatportfolio.vercel.app/)
 - 🐙 [GitHub](https://github.com/Tusarsinghnathawat)
 - 🐦 [Twitter](https://x.com/tusharsinghtwt)
 
