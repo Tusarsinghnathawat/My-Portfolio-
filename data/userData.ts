@@ -51,6 +51,38 @@ const userData: UserData = {
     "Hi, I'm Tushar. A software engineer with a passion for clean code, backend logic, and problem-solving. Strong in C++ and problem-solving with design thinking — getting 1% better every day.",
   // experience: [],
   projects: [
+     {
+      title: "My-tube",
+      description:
+        "Built Mytube, a full-stack social platform blending video hosting (YouTube) and microblogging (Twitter) features with uploads, subscriptions, comments, playlists, and tweet-like interactions.",
+      tags: [
+        "Nodejs",
+        "MONGODB",
+        "EXPRESS",
+        "RESTful APIs",
+        "JWT Authentication",
+        "CLOUD STORAGE"
+      ],
+      Livelink: "https://mytube-inky.vercel.app/",
+      gitHubLink: "https://github.com/Tusarsinghnathawat/Mytube",
+      date: "MAY 2025",
+    },
+    {
+      title: "Real-Time location tracker",
+      description:
+        "Developed a real-time location tracking app with room-based collaboration, live map updates using Leaflet + OpenStreetMap, and instant synchronization powered by Socket.IO.",
+      tags: [
+        "socket.IO",
+        "node.js",
+        "Express.js",
+        "Leaflet.js",
+        "geolocation API",
+        "web sockets",
+      ],
+      Livelink: "https://real-time-tracking-app-7qho.onrender.com/",
+      gitHubLink: "https://github.com/Tusarsinghnathawat/Real-Time-Tracking-app",
+      date: "DEC 2024",
+    },
     {
       title: "Contact Manager",
       description:
@@ -65,36 +97,6 @@ const userData: UserData = {
       Livelink: "https://github.com/Tusarsinghnathawat/Contact-Manager",
       gitHubLink: "https://github.com/Tusarsinghnathawat/Contact-Manager",
       date: "SEP 2024",
-    },
-    {
-      title: "Daily-Drill",
-      description:
-        "A productivity and learning tracking platform featuring a visual learning calendar, streak tracker, and Pomodoro timer to help users build consistent learning habits.",
-      tags: [
-        "NEXT.JS",
-        "REACT",
-        "TAILWIND CSS",
-        "TYPESCRIPT",
-        "LOCAL STORAGE"
-      ],
-      Livelink: "https://daily-drill.vercel.app/",
-      gitHubLink: "https://github.com/Tusarsinghnathawat/Daily_Drill",
-      date: "MAY 2025",
-    },
-    {
-      title: "Guess-the-Number",
-      description:
-        "A fun and interactive number guessing game where players try to guess a randomly generated number within a limited number of attempts.",
-      tags: [
-        "JAVASCRIPT",
-        "HTML",
-        "CSS",
-        "DOM MANIPULATION",
-        "GAME LOGIC"
-      ],
-      Livelink: "https://guess-the-number-orcin-one.vercel.app/",
-      gitHubLink: "https://github.com/Tusarsinghnathawat/js_mini_projects/tree/main/Guss%20the%20Number",
-      date: "DEC 2024",
     },
     {
       title: "Portfolio Website",
